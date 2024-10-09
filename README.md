@@ -1,37 +1,49 @@
 # Global Time Management Tool
 
-This is a web-based application that provides various time management functionalities including a clock, alarm, stopwatch, and timer. It allows users to select different time zones and manage their time effectively.
+## Introduction
+This project was developed for the Ideathon 2.0 competition at our college, where we secured first place! 🎉 We are a group of four students, and our team name is **JustForFun**. The competition was a coding relay, where each team member had 15 minutes to code, followed by a 5-minute handover period.
+
+## Project Overview
+The Global Time Management Tool is a comprehensive solution designed to help users manage their time effectively across different time zones. It includes features such as a functional clock, alarm system, and more. The project is implemented using HTML, CSS, and JavaScript.
 
 ## Features
-
-- **Clock**: Displays the current time in various time zones.
-- **Alarm**: Set alarms to remind you of important tasks.
-- **Stopwatch**: Measure elapsed time for activities.
-- **Timer**: Countdown timer for tracking time intervals.
+- **Functional Clock**: Displays the current time in various time zones.
+- **Alarm System**: Allows users to set alarms for different time zones.
+- **User-Friendly Interface**: Easy-to-navigate interface with a clean design.
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
+- **Web to App Conversion**: The web application has been converted into a mobile app using the WebToApp tool. The APK of the app is provided in the GitHub repository and can be downloaded directly.
 
 ## Installation
+To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/global-time-management-tool.git
+    git clone https://github.com/yourusername/global-time-management-tool.git
     ```
 2. Navigate to the project directory:
     ```bash
     cd global-time-management-tool
     ```
-3. Open `index.html` in your browser to use the application.
+3. Open `index.html` in your preferred web browser.
 
 ## Usage
+- **Clock**: The clock will automatically display the current time in various time zones.
+- **Set Alarm**: Use the alarm feature to set alarms for different time zones. The alarm will play a sound when it goes off.
 
-- **Clock**: Select a time zone from the dropdown menu to view the current time.
-- **Alarm**: Set the desired alarm time and click "Set Alarm". The alarm will sound at the specified time.
-- **Stopwatch**: Click "Start" to begin timing and "Reset" to clear the stopwatch.
-- **Timer**: Enter the number of minutes and click "Start" to begin the countdown. Click "Reset" to clear the timer.
+## APK Download
+The mobile app version of this project can be downloaded from the GitHub repository. Download the APK
 
-## Contributing
+## Team Members
+- **Member 1**: sohan10012
+- **Member 2**: Shreesha2205
+- **Member 3**: 
+- **Member 4**: 
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Acknowledgements
+We would like to thank our mentors and peers for their support and feedback throughout the development of this project.
+
+---
+
+Feel free to reach out if you have any questions or need further assistance!
