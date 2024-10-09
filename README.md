@@ -18,28 +18,33 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/global-time-management-tool.git
+    git clone https://github.com/sohan10012/Hacksprint-JustForFun.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd global-time-management-tool
-    ```
-3. Open `index.html` in your preferred web browser.
+2. Open `index.html` in your preferred web browser.
 
 ## Usage
 - **Clock**: The clock will automatically display the current time in various time zones.
 - **Set Alarm**: Use the alarm feature to set alarms for different time zones. The alarm will play a sound when it goes off.
+- **Stopwatch** : Use stopwatch to set the stopwatch functionality.
+- **Set Timer** :Timer can set using timer functionality.
+
+## Technologies Used
+- **HTML**: For structuring the project.
+- **CSS**: For styling the project (linked as `styles.css`).
+- **JavaScript**: For adding interactivity (linked as `script.js`).  
 
 ## APK Download
 The mobile app version of this project can be downloaded from the GitHub repository. Download the APK
 
+## Screenshots
+
+![Project Screenshot](img.png)
+
 ## Team Members
 - **Member 1**: sohan10012
 - **Member 2**: Shreesha2205
-- **Member 3**: 
-- **Member 4**: 
-
-
+- **Member 3**: prajwalshetty-19
+- **Member 4**: Tusharr06
 
 ## Acknowledgements
 We would like to thank our mentors and peers for their support and feedback throughout the development of this project.
