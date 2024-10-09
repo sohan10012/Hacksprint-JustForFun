@@ -215,8 +215,8 @@ setAlarmButton.addEventListener("click", () => {
         // Stop the alarm sound after 15 seconds
         setTimeout(() => {
           alarmSound.pause();
-          alarmSound.currentTime = 0; // Reset the audio to the beginning
-        }, 15000); // 15000 milliseconds = 15 seconds
+          alarmSound.currentTime = 0; 
+        }, 15000); 
       }, timeToAlarm);
     } else {
       alarmStatus.textContent = "Please set a future time";
